@@ -36,7 +36,6 @@ h1 {
     height:20px;
     position:relative;
     top:5px;
-    right: 30px;
   }
 
 .inputbar {
@@ -74,9 +73,4 @@ h1 {
 .btns input:focus {
     border: 1px solid #4885ed;
     padding: 9px 19px;
-}
-
-.logo img, .logo-2 img{
-    width: 400px;
-    margin: 10px;
 }

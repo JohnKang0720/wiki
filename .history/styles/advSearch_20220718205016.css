@@ -6,11 +6,6 @@
     align-items: center;
 }
 
-.advHeader{
-    color: red;
-    border-bottom: 0.5px solid gray;
-}
-
 .inputs{
     width: 100%;
     display: flex;

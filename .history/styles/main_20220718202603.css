@@ -32,18 +32,8 @@ h1 {
     align-items: center;
 }
 
-.voice{
-    height:20px;
-    position:relative;
-    top:5px;
-    right: 30px;
-  }
-
 .inputbar {
-    margin: 0 auto;
-    width: 575px;
-    border-radius: 30px;
-    border: 1px solid #c1c1c1;
+    width: 500px;
     height: 30px;
 }
 
@@ -63,20 +53,4 @@ h1 {
     border-radius: 4px;
     outline: none;
     cursor: pointer;
-}
-
-.btns input:hover {
-    border: 1px solid #c8c8c8;
-    padding: 9px 19px;
-    color: #808080;
-}
-
-.btns input:focus {
-    border: 1px solid #4885ed;
-    padding: 9px 19px;
-}
-
-.logo img, .logo-2 img{
-    width: 400px;
-    margin: 10px;
 }

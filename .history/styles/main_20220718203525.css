@@ -76,7 +76,14 @@ h1 {
     padding: 9px 19px;
 }
 
-.logo img, .logo-2 img{
+.logo-2 img{
     width: 400px;
+}
+
+.logo img{
+    width: 400px;
+}
+
+img{
     margin: 10px;
 }

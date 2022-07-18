@@ -1,0 +1,32 @@
+.search-form-2{
+    flex-direction: column;
+}
+
+.inputs{
+    width: 50%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.inputs p{
+    margin: 5px;
+}
+
+.btn-div{
+    width: 30%;
+    display: flex;
+    justify-content: end;
+    margin: 10px;
+}
+
+.btn-div button{
+    color: white;
+    font-weight: bold;
+    background: blue;
+}
+
+.header{
+    width: 50%;
+    text-align: left;
+}

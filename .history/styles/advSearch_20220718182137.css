@@ -1,0 +1,9 @@
+.search-form-2{
+    flex-direction: column;
+}
+
+.inputs{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}

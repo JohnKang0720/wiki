@@ -1,0 +1,7 @@
+html, body{
+    width: 100%;
+}
+.nav-div{
+    display: flex;
+    justify-content: space-evenly;
+}

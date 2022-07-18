@@ -1,0 +1,36 @@
+html, body{
+    width: 100%;
+}
+.nav-div{
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.nav-left{
+    width: 60%;
+}
+
+.nav-right{
+    width: 40%;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.search-form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.searchbar{
+
+}
+
+.inputbar{
+    width: 500px;
+}
+
+.btn{
+    width: 100%;
+}

@@ -1,0 +1,7 @@
+.search-form-2{
+    flex-direction: column;
+}
+
+.inputs{
+    display: flex;
+}

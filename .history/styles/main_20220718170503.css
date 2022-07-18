@@ -1,0 +1,7 @@
+html, body{
+    width: 100%;
+}
+.site-div{
+    width: 100%;
+    display: flex;
+}

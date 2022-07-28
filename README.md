@@ -1,2 +1,2 @@
 # JohnKang0720
-Project 0: Search Project Submission
+Project 1: Wiki (Django)

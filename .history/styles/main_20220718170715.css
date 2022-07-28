@@ -1,8 +1,0 @@
-html, body{
-    width: 100%;
-}
-.nav-div{
-    width: 50%;
-    display: flex;
-    justify-content: space-evenly;
-}
